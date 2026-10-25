@@ -18,6 +18,7 @@ Everything here is small, server-side and open source. Our plugins keep the game
 | [**hanafubuki-core-plugin**](https://github.com/Hanafubuki-minecraft/hanafubuki-core-plugin) | Essential teleports for survival: `/spawn`, `/home`, `/tpa`, `/resources` with a warm-up timer and movement check |
 | [**hanafubuki-bluemap-markers**](https://github.com/Hanafubuki-minecraft/hanafubuki-bluemap-markers) | Players place their own markers on the [BlueMap](https://bluemap.bluecolored.de/) web map, straight from the game |
 | [**hanafubuki-resource-world**](https://github.com/Hanafubuki-minecraft/hanafubuki-resource-world) | A resource world that resets on schedule, with personal reset reminders and an optional portal |
+| [**hanafubuki-tweaks**](https://github.com/Hanafubuki-minecraft/hanafubuki-tweaks) | Server datapack: quiet, on-style texts for other datapacks and small vanilla+ touches |
 | [**hanafubuki-brand**](https://github.com/Hanafubuki-minecraft/hanafubuki-brand) | Logo, Discord & Minecraft icons and this banner — editable SVG sources with a one-command build |
 
 ### 🍃 How we work
